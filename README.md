@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-# "homepage": "https://maziz7508.github.io/ReactJs-project-Expense-Tracker-",
+# "homepage": "https://maziz7508.github.io/ReactJs-Project-Expense-Tracker-",
 #  "predeploy": "npm run build",
 # "deploy": "gh-pages -d build",
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
